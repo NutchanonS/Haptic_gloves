@@ -1,0 +1,9 @@
+../Core/Src/DFPLAYER_MINI.c:36:6:Send_cmd	32	static
+../Core/Src/DFPLAYER_MINI.c:46:6:DF_PlayFromStart	8	static
+../Core/Src/DFPLAYER_MINI.c:53:6:DF_Init	16	static
+../Core/Src/DFPLAYER_MINI.c:61:6:DF_Next	8	static
+../Core/Src/DFPLAYER_MINI.c:67:6:DF_Pause	8	static
+../Core/Src/DFPLAYER_MINI.c:72:6:Open_file	16	static
+../Core/Src/DFPLAYER_MINI.c:77:6:DF_Previous	8	static
+../Core/Src/DFPLAYER_MINI.c:83:6:DF_Playback	8	static
+../Core/Src/DFPLAYER_MINI.c:89:6:Check_Key	8	static
